@@ -1,4 +1,6 @@
 .env
 seceate.env
+backend/seceate.env
 node_modules/
 __pycache__/
+*.pyc
